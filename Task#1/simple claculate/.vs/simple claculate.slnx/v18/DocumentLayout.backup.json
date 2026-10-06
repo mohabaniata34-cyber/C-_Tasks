@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\C#-Tasks\\Task#1\\simple claculate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A238EE-44A0-4E2F-AFB4-3D64F17DB2D7}|simple claculate\\simple claculate.csproj|c:\\users\\user\\onedrive\\desktop\\c#-tasks\\task#1\\simple claculate\\simple claculate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A238EE-44A0-4E2F-AFB4-3D64F17DB2D7}|simple claculate\\simple claculate.csproj|solutionrelative:simple claculate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C#-Tasks\\Task#1\\simple claculate\\simple claculate\\Program.cs",
+              "RelativeDocumentMoniker": "simple claculate\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C#-Tasks\\Task#1\\simple claculate\\simple claculate\\Program.cs",
+              "RelativeToolTip": "simple claculate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T14:26:00.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
